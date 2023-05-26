@@ -69,19 +69,22 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-
+## data.head() function
 ![81](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93482485/dd353093-bc8c-49d7-b288-1df4d5ee9ca8)
 
+## data.info()
 ![82](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93482485/0eca3fae-9bb8-48e5-b146-2367a1370760)
 
+## data.isnull().sum() function
 ![83](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93482485/8b571275-496d-4574-99d3-1cff0e33f91e)
 
+## Elbow method Graph
 ![84](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93482485/31f407bf-2985-4cde-bb5d-5a807beb6cb7)
 
+## KMeans clusters
 ![85](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93482485/94b732d7-083f-4f10-b14d-f0a209b8392c)
 
-![86](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93482485/5bbcd5c1-7393-45f4-9b02-159ce485c3b4)
-
+## Customer segments Graph
 ![87](https://github.com/Yuvadarshini-Sathiyamoorthy/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/93482485/78768069-2429-41d8-9562-248dfb364dbf)
 
 
